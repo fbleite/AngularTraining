@@ -1,0 +1,17 @@
+Planning the app.
+
+Features
+- Shopping list
+- Recepi book
+
+What components should we have
+
+        ROOT
+        --------
+        Header - Logic to push and fetch from the server should come here
+        ---------
+F-Shopping List      | F- Recipe book
+C-Shopping list       |C-Recipe detail
+C-Shoppoing list edit |C- Recipe detail
+                    | C - Recipe Item
+M-Ingredient        | M-Recipe
